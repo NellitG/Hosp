@@ -22,12 +22,12 @@ This system simplifies day-to-day administrative and medical processes while ens
 <img width="1912" height="954" alt="Hospital Department" src="https://github.com/user-attachments/assets/85fa7e57-85eb-4373-a3b7-c53a9a901bd2" />
 
 
-**Doctor & patient records**
+**Doctor & Patient records**
 
 <img width="1912" height="954" alt="Hospital Department" src="https://github.com/user-attachments/assets/0379bd62-d4e7-4829-946f-2497cd04b2d6" />
 
 
-**Appointment scheduling**
+**Appointment Scheduling**
 
 <img width="1907" height="898" alt="Appointments" src="https://github.com/user-attachments/assets/1b024707-6fb7-4a69-b16b-4b852321007d" />
 
@@ -41,3 +41,14 @@ This system simplifies day-to-day administrative and medical processes while ens
 
 
 <img width="3276" height="2312" alt="Hospital Management ERD diagram" src="https://github.com/user-attachments/assets/a6369d0e-faa6-412c-b2dc-181f025cd541" />
+
+
+**How the ERD Works in the System**
+
+1. Each Department can have multiple Doctors
+
+2. Each Doctor and Patient can have multiple Appointments
+
+3. Each Appointment results in one prescription
+
+
