@@ -136,7 +136,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 JAZZMIN_SETTINGS = {
     "site_title": "Hospital Admin",
     "site_header": "Hospital Management",
-    "site_brand": "My Hospital",
+    "site_brand": "Hospital",
     "welcome_sign": "Welcome to Hospital Admin",
     "copyright": "Hospital",
     
