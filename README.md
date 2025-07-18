@@ -19,6 +19,7 @@ This system simplifies day-to-day administrative and medical processes while ens
 <img width="1903" height="958" alt="Hospital Department" src="https://github.com/user-attachments/assets/d81850b5-d3e2-419e-bf18-0e585b258dfc" />
 
 
+
 <img width="1912" height="954" alt="Hospital Department" src="https://github.com/user-attachments/assets/85fa7e57-85eb-4373-a3b7-c53a9a901bd2" />
 
 
